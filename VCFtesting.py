@@ -7,4 +7,4 @@ vcf_reader = vcf.Reader(open(r'D:\Software\Contact manager in smart phones/00001
 for record in vcf_reader:
 	print (record,sec)
 
-# this statment is just for commit changes.
+# that previus changes were not required.
