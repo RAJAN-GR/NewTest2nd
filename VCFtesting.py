@@ -8,3 +8,4 @@ for record in vcf_reader:
 	print (record,sec)
 
 # that previus changes were not required.
+# this edit is from the git hub web.without commit option.
